@@ -50,7 +50,7 @@
                     <router-link :to="{ name: 'actividades' }">
                       <v-btn class="primary" elevation="12" x-large width="180">
                         <v-icon left color="yellow" class="ml-2" large>
-                          
+                          t
                         </v-icon>
                         <h4 class="ml-3">ACTIVIDADES</h4>
                       </v-btn>
